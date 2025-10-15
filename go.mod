@@ -1,4 +1,4 @@
-module github.com/example/nginx-operator
+module github.com/chenm0520/operator_test
 
 go 1.25
 
