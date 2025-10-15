@@ -1,0 +1,10 @@
+apiVersion: nginx.example.com/v1
+kind: NginxCluster
+metadata:
+  name: simple-nginx
+spec:
+  replicas: 2
+  image: nginx:1.25
+  # Using default nginx configuration
+
+
